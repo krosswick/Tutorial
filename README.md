@@ -6,8 +6,9 @@
 ---
 ## Navigate this page
 #### Go To:
-[What it's about](https://github.com/krosswick/Tutorial/edit/master/README.md) 
-[Target Audiance](https://github.com/krosswick/Tutorial/edit/master/README.md)
+Step 1: [What it's about](https://github.com/krosswick/Tutorial/edit/master/README.md)
+
+Step 2: [Target Audiance](https://github.com/krosswick/Tutorial/edit/master/README.md)
 
 ---
 ## What it's about:
