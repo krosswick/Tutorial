@@ -5,9 +5,9 @@
 ### Class: INFOTC 2600
 ---
 ## Navigate this page
-#### Make this a table with links to certian areas of the tutorial.
-Go To: [What it's about](https://github.com/krosswick/Tutorial/edit/master/README.md) 
-Go To: [Target Audiance](https://github.com/krosswick/Tutorial/edit/master/README.md)
+#### Go To:
+[What it's about](https://github.com/krosswick/Tutorial/edit/master/README.md) 
+[Target Audiance](https://github.com/krosswick/Tutorial/edit/master/README.md)
 
 ---
 ## What it's about:
