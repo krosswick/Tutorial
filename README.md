@@ -13,7 +13,6 @@ Step 2: [Target Audiance](https://github.com/krosswick/Tutorial/edit/master/READ
 ---
 ## What it's about:
 >This tutorial is designed to give you a basic understanding of how to set up and use basic functions that Audacity offers. This includes:
-
 >* Downloading Audacity
 >* Recording audio clips
 >* Editing those audio clips
