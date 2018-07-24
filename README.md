@@ -6,7 +6,8 @@
 ---
 ## Navigate this page
 #### Make this a table with links to certian areas of the tutorial.
-(ex) Go To: [What it's about](https://github.com/krosswick/Tutorial/edit/master/README.md) 
+Go To: [What it's about](https://github.com/krosswick/Tutorial/edit/master/README.md) 
+Go To: [Target Audiance](https://github.com/krosswick/Tutorial/edit/master/README.md)
 
 ---
 ## What it's about:
