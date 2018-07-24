@@ -4,7 +4,7 @@
 ### Paw Print: klrmt5
 ### Class: INFOTC 2600
 ---
-Here's a break down of the information I will be going over.
+What it's about:
 >This tutorial is designed to give you a basic understanding of how to set up and use basic functions that Audacity offers. This includes:
 *Downloading Audacity
 *Recording audio clips
