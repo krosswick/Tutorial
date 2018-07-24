@@ -5,7 +5,7 @@
 ### Class: INFOTC 2600
 ---
 ## Navigate this page
-#### Go To:
+#### Go To
 Step 1: [What it's about](https://github.com/krosswick/Tutorial/edit/master/README.md)
 
 Step 2: [Target Audiance](https://github.com/krosswick/Tutorial/edit/master/README.md)
