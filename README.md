@@ -12,9 +12,11 @@
 ---
 What it's about:
 >This tutorial is designed to give you a basic understanding of how to set up and use basic functions that Audacity offers. This includes:
-*Downloading Audacity
-*Recording audio clips
-*Editing those audio clips
-*How to import audio
-*How to export audio
+
+* Downloading Audacity
+* Recording audio clips
+* Editing those audio clips
+* How to import audio
+* How to export audio
+
 ---
