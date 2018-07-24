@@ -4,6 +4,7 @@
 ### Paw Print: klrmt5
 ### Class: INFOTC 2600
 ---
+## Navigate this page
 #### Make this a table with links to certian areas of the tutorial.
 (ex) Go To: [What it's aobut] (https://github.com/krosswick/Tutorial/edit/master/README.md) 
 
