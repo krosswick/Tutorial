@@ -34,7 +34,15 @@ Step 3: [Download Audacity](https://github.com/krosswick/Tutorial/edit/master/RE
 >Go to Audacity's website.  You can simply google "Audacity download" or you can click [this link](https://www.audacityteam.org/) to get to the website.
 >
 >Once at the website, there will be a large blue button in the center of the screen that says "Download Audacity". The button looks like this 
-
-
-
-![](pics/audacitybutton.PNG)
+>
+>
+>
+>![](pics/audacitybutton.PNG)
+>
+>This button will redirect you to a page that prompts you to download Audacity based on what operating system you are using.
+>**If you are using windows**
+>* Click this button:
+>
+>
+>
+>![](pics/)
