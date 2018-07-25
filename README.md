@@ -45,4 +45,4 @@ Step 3: [Download Audacity](https://github.com/krosswick/Tutorial/edit/master/RE
 >
 >
 >
->![](pics/)
+>![](pics/windowsbutton.PNG)
