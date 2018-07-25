@@ -10,9 +10,11 @@ Step 1: [What it's about](https://github.com/krosswick/Tutorial/edit/master/READ
 
 Step 2: [Target Audiance](https://github.com/krosswick/Tutorial/edit/master/README.md)
 
+Step 3: [Download Audacity](https://github.com/krosswick/Tutorial/edit/master/README.md)
+
 ---
 ## What it's about:
->This tutorial is designed to give you a basic understanding of how to set up and use basic functions that Audacity offers. This includes:
+>This tutorial is designed to give you a basic understanding of how to set up and use basic functions that Audacity offers. **This includes:**
 >* Downloading Audacity
 >* Recording audio clips
 >* Editing those audio clips
@@ -26,3 +28,7 @@ Step 2: [Target Audiance](https://github.com/krosswick/Tutorial/edit/master/READ
 >* First time Audacity users
 >* People with limited technical skills
 ---
+---
+## Download Audacity:
+**To get Audacity downloaded on your computer**
+>Go to Audacity's website.  You can simply google "Audacity download" or you can click [this link](https://www.audacityteam.org/) to get to the website.
