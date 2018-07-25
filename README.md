@@ -40,6 +40,7 @@ Step 3: [Download Audacity](https://github.com/krosswick/Tutorial/edit/master/RE
 >![](pics/audacitybutton.PNG)
 >
 >This button will redirect you to a page that prompts you to download Audacity based on what operating system you are using.
+
 **If you are using windows**
 >* Click this button:
 >
