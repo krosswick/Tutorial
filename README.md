@@ -67,7 +67,7 @@ Step 6: [Importing Audio](#Importing-Audio)
 >Once it has downloaded, choose your language and your file path.
 ---
 ---
-## Recording Audio <a id="#Recording-Audio"> <\a>
+## Recording Audio <a id="Recording-Audio"> <\a>
 >Once you open up Audacity, you should see the main interface that looks like this:
 >
 >
