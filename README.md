@@ -103,7 +103,7 @@ Step 6: [Importing Audio](#Importing-Audio)
 >**Congratulations!** You have exported your first audio clip to a WAV file!
 ---
 ---
-## Importing Audio <a id="#Importing-Audio"> <\a>
+## Importing Audio <a id="Importing-Audio"> <\a>
 >If you have an audio file that you wish to import to Audacity, the process is very simple and easy to follow.
 >
 >Go to the top left of the screen and click file -> Import -> Audio...
