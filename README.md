@@ -8,7 +8,7 @@
 #### Go To
 Step 1: [What it's about](#What-it's-about)
 
-Step 2: [Target Audiance](https://github.com/krosswick/Tutorial/edit/master/README.md)
+Step 2: [Target Audiance](#Target-Audiance)
 
 Step 3: [Download Audacity](https://github.com/krosswick/Tutorial/edit/master/README.md)
 
@@ -19,7 +19,7 @@ Step 5: [Exporting Audio](https://github.com/krosswick/Tutorial/edit/master/READ
 Step 6: [Importing Audio](https://github.com/krosswick/Tutorial/edit/master/README.md)
 
 ---
-## What it's about <a id="What-it's-about"><\a>
+## What it's about <a id="What-it's-about">
 >This tutorial is designed to give you a basic understanding of how to set up and use basic functions that Audacity offers. **This includes:**
 >* Downloading Audacity
 >* Recording audio clips
@@ -28,7 +28,7 @@ Step 6: [Importing Audio](https://github.com/krosswick/Tutorial/edit/master/READ
 >* How to export audio
 ---
 ---
-## Target Audiance:
+## Target Audiance <a id="Target-Audiance">
 >This is designed to be a very basic tutorial, giving new users a first look at the tools that Audacity provides. **Users who will benefit include:**
 >* All age groups
 >* First time Audacity users
