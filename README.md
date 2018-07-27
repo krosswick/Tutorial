@@ -96,3 +96,11 @@ Step 6: [Importing Audio](https://github.com/krosswick/Tutorial/edit/master/READ
 >
 >
 >![](pics/namescreen.PNG)
+>
+>From here, you can edit the file to have the title and description that you desire.
+>
+>After clicking OK, you will be able to find your exported audio in your Audacity folder.
+>
+>**Congratulations!** You have exported your first audio clip to a WAV file!
+---
+---
