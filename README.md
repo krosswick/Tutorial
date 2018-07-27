@@ -36,8 +36,6 @@ Step 6: [Importing Audio](#Importing-Audio)
 ---
 ---
 ## Download Audacity <a id="#Download-Audacity"> <\a>
-  
-**To get Audacity downloaded on your computer**
 >Go to Audacity's website.  You can simply google "Audacity download" or you can click [this link](https://www.audacityteam.org/) to get to the website.
 >
 >Once at the website, there will be a large blue button in the center of the screen that says "Download_Audacity". The button looks like this 
