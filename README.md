@@ -19,7 +19,7 @@ Step 5: [Exporting Audio](https://github.com/krosswick/Tutorial/edit/master/READ
 Step 6: [Importing Audio](https://github.com/krosswick/Tutorial/edit/master/README.md)
 
 ---
-## What it's about <a id="What-it's-about" \a>
+## What it's about <a id="What-it's-about"> <\a>
 >This tutorial is designed to give you a basic understanding of how to set up and use basic functions that Audacity offers. **This includes:**
 >* Downloading Audacity
 >* Recording audio clips
