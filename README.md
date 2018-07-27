@@ -49,3 +49,5 @@ Step 3: [Download Audacity](https://github.com/krosswick/Tutorial/edit/master/RE
 >![](pics/windowsbutton.PNG)
 
 ### Next
+
+>Click Audacity 2.2.2 installer and choose your language, and your file path.
