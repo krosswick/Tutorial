@@ -51,3 +51,10 @@ Step 3: [Download Audacity](https://github.com/krosswick/Tutorial/edit/master/RE
 ### Next
 
 >Click Audacity 2.2.2 installer and choose your language, and your file path.
+
+**If you are using Mac***
+>* Click this button:
+>
+>
+>
+>![](pics/mac.PNG)
