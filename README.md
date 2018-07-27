@@ -6,7 +6,7 @@
 ---
 ## Navigate this page
 #### Go To
-Step 1: [What it's about](##What-it's-about:)
+Step 1: [What it's about](## What-it's-about:)
 
 Step 2: [Target Audiance](https://github.com/krosswick/Tutorial/edit/master/README.md)
 
