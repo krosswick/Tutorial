@@ -75,7 +75,7 @@ Step 3: [Download Audacity](https://github.com/krosswick/Tutorial/edit/master/RE
 >
 >![](pics/record.PNG)
 >
->To stop recording, navigate back to the tool bar depicted above and click the yellow square button.
+>To stop recording, navigate back to the tool bar depicted above and click the gray square button.
 >Congratulations! You have just recorded your first clip of live audio!
 ---
 ---
