@@ -104,3 +104,19 @@ Step 6: [Importing Audio](https://github.com/krosswick/Tutorial/edit/master/READ
 >**Congratulations!** You have exported your first audio clip to a WAV file!
 ---
 ---
+## Importing Audio
+>If you have an audio file that you wish to import to Audacity, the process is very simple and easy to follow.
+>
+>Go to the top left of the screen and click file -> Import -> Audio...
+>
+>A new screen that looks like this will pop up:
+>
+>
+>
+>![](pics/import.PNG)
+>
+>From here, you can look through the files that you have saved to your computer and find the clip of audio that you wish to import.
+>
+>Click the file, and select OK when the warning box pops up.
+>
+>**Congratulations!** You have imported an audio clip into Audacity!
