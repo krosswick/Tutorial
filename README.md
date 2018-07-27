@@ -89,6 +89,10 @@ Step 6: [Importing Audio](https://github.com/krosswick/Tutorial/edit/master/READ
 ## Exporting Audio
 >Now that you have a clip recorded, you will want to export it so you can use it however you please.
 >
+>At the top left of the screen you will find a button titled "flie". Click file -> Export -> Export as WAV -> Save.
+>
+>After this is completed this screen will pop up:
 >
 >
->![](export.gif)
+>
+>![](pics/namescreen.PNG)
