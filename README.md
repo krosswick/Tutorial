@@ -91,4 +91,4 @@ Step 6: [Importing Audio](https://github.com/krosswick/Tutorial/edit/master/READ
 >
 >
 >
->![Watch](pics/video.mp4)
+>![](export.gif)
