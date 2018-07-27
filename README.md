@@ -12,6 +12,12 @@ Step 2: [Target Audiance](https://github.com/krosswick/Tutorial/edit/master/READ
 
 Step 3: [Download Audacity](https://github.com/krosswick/Tutorial/edit/master/README.md)
 
+Step 4: [Recording Audio](https://github.com/krosswick/Tutorial/edit/master/README.md)
+
+Step 5: [Exporting Audio](https://github.com/krosswick/Tutorial/edit/master/README.md)
+
+Step 6: [Importing Audio](https://github.com/krosswick/Tutorial/edit/master/README.md)
+
 ---
 ## What it's about:
 >This tutorial is designed to give you a basic understanding of how to set up and use basic functions that Audacity offers. **This includes:**
@@ -80,3 +86,5 @@ Step 3: [Download Audacity](https://github.com/krosswick/Tutorial/edit/master/RE
 >**Congratulations!** You have just recorded your first clip of live audio!
 ---
 ---
+## Exporting Audio
+>Now that you have a clip recorded, you will want to export it so you can use it however you please.
