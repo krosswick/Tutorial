@@ -60,10 +60,6 @@ Step 3: [Download Audacity](https://github.com/krosswick/Tutorial/edit/master/RE
 >
 >Next, click Audacity 2.2.2 .dmg file.
 >Once it has downloaded, choose your language and your file path.
+---
+---
 
-**If you are using GNU/Linux**
->* Click this button:
->
->
->
->![](pics/)
