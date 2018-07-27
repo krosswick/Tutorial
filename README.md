@@ -10,13 +10,13 @@ Step 1: [What it's about](#What-it's-about)
 
 Step 2: [Target Audiance](#Target-Audiance)
 
-Step 3: [Download Audacity](https://github.com/krosswick/Tutorial/edit/master/README.md)
+Step 3: [Download Audacity](#Download-Audacity)
 
-Step 4: [Recording Audio](https://github.com/krosswick/Tutorial/edit/master/README.md)
+Step 4: [Recording Audio](#Recording-Audio)
 
-Step 5: [Exporting Audio](https://github.com/krosswick/Tutorial/edit/master/README.md)
+Step 5: [Exporting Audio](#Exporting-Audio)
 
-Step 6: [Importing Audio](https://github.com/krosswick/Tutorial/edit/master/README.md)
+Step 6: [Importing Audio](#Importing-Audio)
 
 ---
 ## What it's about <a id="What-it's-about"> <\a>
@@ -28,14 +28,14 @@ Step 6: [Importing Audio](https://github.com/krosswick/Tutorial/edit/master/READ
 >* How to export audio
 ---
 ---
-## Target Audiance <a id="Target-Audiance">
+## Target Audiance <a id="Target-Audiance"> <\a>
 >This is designed to be a very basic tutorial, giving new users a first look at the tools that Audacity provides. **Users who will benefit include:**
 >* All age groups
 >* First time Audacity users
 >* People with limited technical skills
 ---
 ---
-## Download Audacity:
+## Download Audacity <a id="#Download-Audacity"><\a>
 **To get Audacity downloaded on your computer**
 >Go to Audacity's website.  You can simply google "Audacity download" or you can click [this link](https://www.audacityteam.org/) to get to the website.
 >
@@ -68,7 +68,7 @@ Step 6: [Importing Audio](https://github.com/krosswick/Tutorial/edit/master/READ
 >Once it has downloaded, choose your language and your file path.
 ---
 ---
-## Recording Audio
+## Recording Audio <a id="#Recording-Audio"><\a>
 >Once you open up Audacity, you should see the main interface that looks like this:
 >
 >
@@ -86,7 +86,7 @@ Step 6: [Importing Audio](https://github.com/krosswick/Tutorial/edit/master/READ
 >**Congratulations!** You have just recorded your first clip of live audio!
 ---
 ---
-## Exporting Audio
+## Exporting Audio <a id="Exporting-Audio"><\a>
 >Now that you have a clip recorded, you will want to export it so you can use it however you please.
 >
 >At the top left of the screen you will find a button titled "flie". Click file -> Export -> Export as WAV -> Save.
@@ -104,7 +104,7 @@ Step 6: [Importing Audio](https://github.com/krosswick/Tutorial/edit/master/READ
 >**Congratulations!** You have exported your first audio clip to a WAV file!
 ---
 ---
-## Importing Audio
+## Importing Audio <a id="#Importing-Audio"><\a>
 >If you have an audio file that you wish to import to Audacity, the process is very simple and easy to follow.
 >
 >Go to the top left of the screen and click file -> Import -> Audio...
