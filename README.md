@@ -88,3 +88,7 @@ Step 6: [Importing Audio](https://github.com/krosswick/Tutorial/edit/master/READ
 ---
 ## Exporting Audio
 >Now that you have a clip recorded, you will want to export it so you can use it however you please.
+>
+>
+>
+>![](pics/video.mp4)
