@@ -62,4 +62,9 @@ Step 3: [Download Audacity](https://github.com/krosswick/Tutorial/edit/master/RE
 >Once it has downloaded, choose your language and your file path.
 ---
 ---
-
+## Recording Audio
+>Once you open up Audacity, you should see the main interface that looks like this:
+>
+>
+>
+>[](pics/audacity.PNG)
