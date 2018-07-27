@@ -68,3 +68,14 @@ Step 3: [Download Audacity](https://github.com/krosswick/Tutorial/edit/master/RE
 >
 >
 >![](pics/audacity.PNG)
+>
+>
+>At this point, make sure you have a recording device plugged into your computer so you can record audio.
+>To begin recording, you can simply click on the red circle button at the top left of the screen depicted here:
+>
+>![](pics/record.PNG)
+>
+>To stop recording, navigate back to the tool bar depicted above and click the yellow square button.
+>Congratulations! You have just recorded your first clip of live audio!
+---
+---
